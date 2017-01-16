@@ -5,8 +5,8 @@
 # (c) 2016 Marc Weitz <marc.weitz [at] trybnetic.org>
 # GPL 3.0+ or (cc) by-sa (http://creativecommons.org/licenses/by-sa/3.0/)
 #
-# created 2016-11-25
-# last mod 2016-11-25 MW
+# created 2017-01-15
+# last mod 2017-01-16 MW
 #
 
 
